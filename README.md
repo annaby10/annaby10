@@ -21,6 +21,11 @@
 ### 🚀 Backend & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ### ☁️ Cloud & Containers
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -29,6 +34,7 @@
 ### 🔄 CI/CD & Tools
 ![GitLab](https://img.shields.io/badge/GitLab-CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Workflow-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ### 🛠️ Others
 ![Linux](https://img.shields.io/badge/Linux-🐧-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -65,22 +71,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
-
----
 
 ## 🌍 Let’s Connect
 
@@ -95,9 +85,7 @@
 
 ---
 
-## ✨ Fun Fact
-
-⚡ I enjoy **breaking things in Kubernetes just to understand how they heal themselves**  
+🙏 “Commit your work to the Lord, and your plans will succeed.” — Proverbs 16:3
 
 ---
 
