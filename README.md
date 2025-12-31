@@ -1,85 +1,106 @@
-# Hi, I'm Ann Maria Abraham 👋  
-
-**Full-Stack Developer**  
-React | Node.js | MongoDB  
-Learning by building 🚀  
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+I'm+Ann+Maria+Abraham+👋;Cloud+%26+DevOps+Engineer+☁️;Kubernetes+%7C+Quarkus+%7C+CI%2FCD;Learning+%26+Building+Everyday+🚀" />
+</p>
 
 ---
 
 ## 🌟 About Me
 
-👩‍💻 Software Developer with **Full-Stack Web Development experience**  
-🌱 Strong foundation in **frontend, backend, and API development**  
-🔧 Interested in understanding **how systems work end-to-end**  
-📚 Believe in **learning by building real projects**
+✨ **DevOps / Cloud-Native Enthusiast**  
+✨ Passionate about **Kubernetes, CI/CD, Quarkus & automation**  
+✨ I love turning **infrastructure concepts into working systems**  
+✨ Focused on **learning by building, not just theory**
 
-💬 *“Write clean code, build useful things, keep learning.”*
+💡 *“Make systems observable, scalable, and boringly reliable.”*
 
 ---
 
-## 🧭 Tech Journey
+## 🧰 Tech Stack
 
-```text
-Frontend Development (HTML, CSS, React)
-        ↓
-Backend & APIs (Node.js, Express)
-        ↓
-Databases & Hosting (MongoDB, Firebase, Netlify, Vercel)
-        ↓
-Expanding into Backend Systems & Cloud Concepts
-🧰 Tech Stack
-💻 Languages
+### 🚀 Backend & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
 
+### ☁️ Cloud & Containers
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+### 🔄 CI/CD & Tools
+![GitLab](https://img.shields.io/badge/GitLab-CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Workflow-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### 🛠️ Others
+![Linux](https://img.shields.io/badge/Linux-🐧-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![YAML](https://img.shields.io/badge/YAML-Data-000000?style=for-the-badge)
 
-🎨 Frontend
+---
 
+## 📌 What I’m Working On
 
+🔹 Dynamic ConfigMap updates using **Kubernetes Informers**  
+🔹 Event-driven Quarkus applications  
+🔹 GitLab CI pipelines & container registries  
+🔹 Kubernetes networking & services  
+🔹 Teaching & simplifying complex DevOps concepts  
 
+---
 
-☁️ Cloud & Containers
+## 📂 Featured Projects
 
+🚀 **Dynamic ConfigMap Watcher (Quarkus + Kubernetes)**  
+- Real-time config updates without pod restarts  
+- Fabric8 Informers + CDI  
+- SSE for live updates  
 
+🛠 **Kubernetes Hands-on Demos**
+- Pod-to-pod communication
+- Services & networking
+- ConfigMaps & Secrets
 
+📦 **CI/CD Pipelines**
+- GitLab CI
+- Docker image builds
+- Registry push & deploy flows
 
-🔄 CI/CD & Project Management
+---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
-🛠️ Tools
+---
 
+## 🔥 GitHub Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</p>
 
-📌 What I’m Currently Learning
-Backend system fundamentals
+---
 
-API design and best practices
+## 🌍 Let’s Connect
 
-Databases and data modeling
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Reach%20Me-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
-Deployment & hosting workflows
+---
 
-Version control and collaboration
+## ✨ Fun Fact
 
-📂 Project Areas & Interests
-🚀 Full-Stack Web Applications
-React frontend with Node.js & Express backend
+⚡ I enjoy **breaking things in Kubernetes just to understand how they heal themselves**  
 
-REST APIs and CRUD operations
+---
 
-MongoDB-based applications
-
-⚙️ Backend Development
-API development
-
-Data validation & error handling
-
-Authentication basics
-
-📦 Deployment & Tooling
-Hosting apps on Netlify & Vercel
-
-API testing with Postman
-
-Git-based workflows
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
